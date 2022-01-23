@@ -1,2 +1,1 @@
-# game
-Game implementation
+# A walkthrough of Hands On Rust
