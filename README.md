@@ -1,1 +1,1 @@
-# A walkthrough of Hands On Rust
+# A walk through of Hands On Rust
